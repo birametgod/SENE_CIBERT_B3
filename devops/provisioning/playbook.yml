@@ -1,0 +1,9 @@
+- name: Symphony dev env (php, ,nginx , Mysql)
+  hosts: all
+  gather_facts: no
+  sudo: yes
+
+  roles:
+  - common
+  - php-fpm
+
