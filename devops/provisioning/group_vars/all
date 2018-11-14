@@ -1,2 +1,3 @@
 nginx_user: nginx
-
+application_folder: application
+php_fpm_socket: /run/php/php7.2-fpm.sock
