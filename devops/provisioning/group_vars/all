@@ -4,4 +4,6 @@ php_fpm_socket: /run/php/php7.2-fpm.sock
 mysql_root_password: root
 item: root
 mysql_daemon: mysql
-
+database_name: application
+database_user: app_user
+database_password: s3cr3t
