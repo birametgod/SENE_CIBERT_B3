@@ -7,4 +7,5 @@
   - common
   - php-fpm
   - nginx
-  - mysql
+  - mysql-server
+  - symfony
