@@ -8,3 +8,4 @@
   - php-fpm
   - nginx
   - mysql-server
+  - symfony
